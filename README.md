@@ -27,16 +27,14 @@ Clicking on the settings button, allows users to choose however many of each of 
 - Increasing clues 
 - Attempting to decrease quantities below 0.
 
-## Images:
+## Images (Imgur):
 
 [Splash Screen (Intro)](https://imgur.com/hBbsEyn)
-![Splash Screen (Intro)](https://imgur.com/hBbsEyn)
 
 [Main Activity](https://imgur.com/MgZe7aj)
-![Main Activity](https://imgur.com/MgZe7aj)
 
 [Settings Activity](https://imgur.com/J3qRQiB)
-![Settings Activity](https://imgur.com/J3qRQiB)
+
 
 
 
