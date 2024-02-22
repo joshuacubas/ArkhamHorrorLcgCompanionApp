@@ -29,11 +29,11 @@ Clicking on the settings button, allows users to choose however many of each of 
 
 ## Images (Imgur):
 
-[Splash Screen (Intro)](https://imgur.com/hBbsEyn)
+![Splash Screen (Intro)](https://imgur.com/hBbsEyn.png)
 
-[Main Activity](https://imgur.com/MgZe7aj)
+![Main Activity](https://imgur.com/MgZe7aj.png)
 
-[Settings Activity](https://imgur.com/J3qRQiB)
+![Settings Activity](https://imgur.com/J3qRQiB.png)
 
 
 
