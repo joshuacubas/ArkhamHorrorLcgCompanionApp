@@ -1,6 +1,6 @@
 # Arkham Horror Live Card Game: Companion App
 
-Built in in android studio for android devices. 
+Developed in Android studio using Java for Android devices. 
 Made for proof of concept / educational purposes.  
 
 ## The App
