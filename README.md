@@ -27,6 +27,11 @@ Clicking on the settings button, allows users to choose however many of each of 
 - Increasing clues 
 - Attempting to decrease quantities below 0.
 
+## Youtube Video Demo URL : https://youtu.be/RMUJ4LFBaKo
+
+https://github.com/joshuacubas/ArkhamHorrorLcgCompanionApp/assets/46095435/be5ea265-1cad-4e27-8706-b3f6627ef9d2
+
+
 ## Images (Imgur):
 
 ![Splash Screen (Intro)](https://imgur.com/hBbsEyn.png)
